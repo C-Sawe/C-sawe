@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm C-Sawe</h1>
 <h3 align="center">A passionate student developer exploring blockchain and AI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-sawe" alt="c-sawe" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=c-sawe" alt="c-sawe" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain learning modules**
 
