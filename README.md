@@ -1,42 +1,80 @@
-<h1 align="center">Hi 👋, I'm Caleb (C-Sawe)</h1>
-<h3 align="center">Informatics & Computer Science Student | Full-Stack Developer | AI & MLOps Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=c-sawe&theme=dracula" alt="c-sawe" /></a> </p>
+# Caleb Kipchirchir
 
-- 🔭 I’m currently working on **an AI-powered autonomous trading system for global energy markets** and expanding an **e-commerce platform** for the agricultural sector.
+**Computer Science & Informatics · Strathmore University · Nairobi, Kenya**
 
-- 🌱 I’m currently diving deeper into **Deep Reinforcement Learning (PPO agents), MLOps, and interactive 3D geospatial data (react-globe.gl).**
+[![Email](https://img.shields.io/badge/Email-caleb.Kipchirchir%40strathmore.edu-1a3a5c?style=flat-square&logo=gmail&logoColor=white)](mailto:caleb.Kipchirchir@strathmore.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-c--sawe-1a3a5c?style=flat-square&logo=github&logoColor=white)](https://github.com/c-sawe)
 
-- 👨‍💻 Check out my projects at [github.com/c-sawe](https://github.com/c-sawe)
+</div>
 
-- 💬 Ask me about **Laravel, React, MySQL, integrating AI models, or building scalable tech for business operations.**
+---
 
-- 📫 How to reach me: **caleb.Kipchirchir@strathmore.edu**
+## About
 
-- ⚡ Fun fact: **When I'm not deploying code or writing my final-year thesis, I'm managing a team of 23+ people and running operations at Mosop Farm Inputs!**
+Final-year Computer Science & Informatics student with a focus on applied AI, MLOps, and full-stack systems development. Currently building a deep reinforcement learning–based autonomous trading system for global energy markets as my undergraduate thesis, combining production-grade MLOps infrastructure with PPO-based portfolio management.
 
-<h3 align="left">Connect with me:</h3>
-<!-- Add your LinkedIn or Twitter links here -->
-<p align="left">
-</p>
+Outside of software, I manage operations and lead a team of 23+ at **Mosop Farm Inputs**, where I also develop and maintain an agricultural e-commerce platform.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&theme=radical" alt="c-sawe" /></p>
+## Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&theme=radical" alt="c-sawe" /></p>
+- **Thesis** — Reinforcement learning (PPO) trading agent for energy equities with a Continuous Training pipeline for alpha decay detection and automated retraining
+- **MLOps & RLOps** — Building production infrastructure: PostgreSQL, FastAPI, React dashboard, and a CT orchestrator as the core research contribution
+- **Geospatial Visualisation** — Interactive 3D data rendering with `react-globe.gl`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-sawe&theme=radical" alt="c-sawe" /></p>
+---
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a3a5c?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a3a5c?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a3a5c?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a3a5c?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-2c4a6e?style=flat-square&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2c4a6e?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2c4a6e?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2c4a6e?style=flat-square&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2c4a6e?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d5a80?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3d5a80?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3d5a80?style=flat-square&logo=docker&logoColor=white)
+
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-3d5a80?style=flat-square&logo=pytorch&logoColor=white)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-3d5a80?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3d5a80?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&theme=nord&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-sawe&theme=nord&hide_border=true)
+
+</div>
+
+---
+
+## Reach Out
+
+I'm open to research collaborations, technical discussions on RL systems and MLOps, or engineering roles with a focus on AI deployment and backend infrastructure.
+
+📧 [caleb.Kipchirchir@strathmore.edu](mailto:caleb.Kipchirchir@strathmore.edu)
