@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:2c5f8a&height=180&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Informatics%20%C2%B7%20AI%20%26%20MLOps%20%C2%B7%20Strathmore%20University&descAlignY=58&descColor=a8c8e8&animation=fadeIn" />
+</p>
+
 <div align="center">
-
-# Caleb Kipchirchir
-
-**Computer Science & Informatics · Strathmore University · Nairobi, Kenya**
 
 [![Email](https://img.shields.io/badge/Email-caleb.Kipchirchir%40strathmore.edu-1a3a5c?style=flat-square&logo=gmail&logoColor=white)](mailto:caleb.Kipchirchir@strathmore.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-c--sawe-1a3a5c?style=flat-square&logo=github&logoColor=white)](https://github.com/c-sawe)
@@ -78,3 +78,7 @@ Outside of software, I manage operations and lead a team of 23+ at **Mosop Farm 
 I'm open to research collaborations, technical discussions on RL systems and MLOps, or engineering roles with a focus on AI deployment and backend infrastructure.
 
 📧 [caleb.Kipchirchir@strathmore.edu](mailto:caleb.Kipchirchir@strathmore.edu)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0d1b2a&height=100&section=footer" />
+</p>
