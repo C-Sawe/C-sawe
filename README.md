@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:2c5f8a&height=180&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Informatics%20%C2%B7%20AI%20%26%20MLOps%20%C2%B7%20Strathmore%20University&descAlignY=58&descColor=a8c8e8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:2c5f8a&height=180&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20MLOps%20%7C%20Strathmore%20University&descAlignY=58&descColor=a8c8e8&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@ Outside of software, I manage operations and lead a team of 23+ at **Mosop Farm 
 
 ---
 
-## GitHub Stats
+## GitHub Stats — 2026
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Outside of software, I manage operations and lead a team of 23+ at **Mosop Farm 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&theme=nord&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-sawe&theme=nord&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Activity)
 
 </div>
 
