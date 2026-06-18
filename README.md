@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:2c5f8a&height=220&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Computer%20Science%20%7C%20AI%20%26%20MLOps%20%7C%20Strathmore%20University&descAlignY=50&descColor=a8c8e8&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a5c&height=60&text=WELCOME%20TO%20MY%20PROFILE&fontSize=22&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20Deep%20RL%20Researcher%20%7C%20MLOps%20Engineer&descAlignY=120&descColor=a8c8e8&animation=fadeIn" />
 </p>
 
 <div align="center">
