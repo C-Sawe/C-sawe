@@ -21,7 +21,6 @@
 
 Final-year Computer Science & Informatics student with a focus on applied AI, MLOps, and full-stack systems development. Currently building a deep reinforcement learning–based autonomous trading system for global energy markets as my undergraduate thesis, combining production-grade MLOps infrastructure with PPO-based portfolio management.
 
-Outside of software, I manage operations and lead a team of 23+ at **Mosop Farm Inputs**, where I also develop and maintain an agricultural e-commerce platform.
 
 ---
 
