@@ -66,11 +66,15 @@ Final-year Computer Science & Informatics student with a focus on applied AI, ML
 
 ## GitHub Stats — 2026
 
+## GitHub Stats — 2026
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&theme=nord&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" height="165" alt="Top Languages" />
 </div>
+
 <br />
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&custom_title=2026%20Contribution%20Activity" width="100%" alt="Activity Graph" />
 </div>
@@ -82,6 +86,7 @@ Final-year Computer Science & Informatics student with a focus on applied AI, ML
 I'm open to research collaborations, technical discussions on RL systems and MLOps, or engineering roles with a focus on AI deployment and backend infrastructure.
 
 📧 [caleb.Kipchirchir@strathmore.edu](mailto:caleb.Kipchirchir@strathmore.edu)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0d1b2a&height=100&section=footer" />
