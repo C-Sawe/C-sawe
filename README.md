@@ -14,6 +14,9 @@
   <a href="https://github.com/c-sawe">
     <img src="https://img.shields.io/badge/GitHub-c--sawe-1a3a5c?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">
+    <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Kipchirchir-1a3a5c?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
@@ -66,8 +69,6 @@ Final-year Computer Science & Informatics student with a focus on applied AI, ML
 
 ## GitHub Stats — 2026
 
-## GitHub Stats — 2026
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&theme=nord&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" height="165" alt="Top Languages" />
@@ -86,6 +87,7 @@ Final-year Computer Science & Informatics student with a focus on applied AI, ML
 I'm open to research collaborations, technical discussions on RL systems and MLOps, or engineering roles with a focus on AI deployment and backend infrastructure.
 
 📧 [caleb.Kipchirchir@strathmore.edu](mailto:caleb.Kipchirchir@strathmore.edu)
+🔗 [LinkedIn](https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/)
 
 
 <p align="center">
