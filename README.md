@@ -99,24 +99,22 @@ I work on the gap between experimental models and resilient, high-throughput pro
 ## GitHub Telemetry · 2026
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c-sawe&theme=nord_dark" width="100%" alt="Contribution activity and profile overview" />
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="Contribution activity and profile overview" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&border_radius=6&rank_icon=github" height="170" alt="GitHub statistics and rank" />
+  <img src="./assets/stats.svg" height="170" alt="GitHub statistics and rank" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-sawe&theme=nord_dark" height="170" alt="Repositories per language" />
+  <img src="./assets/top-langs.svg" height="170" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-sawe&theme=nord_dark" height="170" alt="Most committed languages" />
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="170" alt="Most committed languages" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-sawe&theme=nord_dark&utcOffset=3" height="170" alt="Commit activity by time of day (EAT)" />
+  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" height="170" alt="Commit activity by time of day (EAT)" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c-sawe&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies and ranks" />
-</p>
+<p align="center"><sub>Cards are generated daily by GitHub Actions and served from this repository.</sub></p>
 
 <br />
 
