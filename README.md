@@ -81,9 +81,7 @@ Final-year Computer Science & Informatics researcher and software engineer speci
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&custom_title=2026%20Contribution%20Activity" width="100%" 
-</div>
+
 
 ---
 
