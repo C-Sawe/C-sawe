@@ -1,126 +1,159 @@
- <!-- README.md -->
+# Caleb Kipchirchir
+### AI & MLOps Engineer | Reinforcement Learning | Intelligent Systems
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a5c&height=180&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20MLOps&descAlignY=65&descSize=16&descColor=a8c8e8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1624,50:142c46,100:205b85&height=190&section=header&text=CALeb%20KIPCHIRCHIR&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=62&descColor=b9d8f2&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <b>Building intelligent systems. Engineering practical solutions.</b>
+  <b>Building intelligent systems that learn, adapt and evolve.</b>
 </p>
 
 <p align="center">
   <a href="mailto:caleb.Kipchirchir@strathmore.edu">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-1a3a5c?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact-142c46?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/c-sawe">
-    <img src="https://img.shields.io/badge/GitHub-C--Sawe-1a3a5c?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-C--Sawe-142c46?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1a3a5c?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-142c46?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 01 / About Me
 
-I'm a Computer Science and Informatics student at **Strathmore University**, with a strong interest in software engineering, applied artificial intelligence, and machine learning infrastructure.
+I'm a Computer Science and Informatics student at **Strathmore University**, focused on applied artificial intelligence, machine learning infrastructure and intelligent software systems.
 
-My work revolves around designing and developing practical software systems, from full-stack web applications and backend architectures to intelligent agents and automated machine learning pipelines.
+My interests lie at the intersection of AI research and software engineering, particularly in building systems that can learn from data, evaluate their own performance, and improve through automated training and deployment workflows.
 
-I'm particularly interested in bridging the gap between experimental AI research and deployable engineering systems.
+I enjoy working beyond the model itself: designing the data pipelines, backend infrastructure, orchestration workflows, monitoring systems and interfaces required to turn machine learning experiments into functional engineering solutions.
 
-Currently, I'm exploring how reinforcement learning, MLOps, and continuous training architectures can be combined to build adaptive, reliable, and production-oriented intelligent systems.
+**Current areas of focus:**
 
-- 🎓 **Education:** BSc Informatics & Computer Science — Strathmore University
-- 💻 **Focus:** Software Engineering, Applied AI & MLOps
-- 🧠 **Research:** Deep Reinforcement Learning and autonomous trading systems
-- ⚙️ **Interests:** Backend infrastructure, automation, intelligent systems and scalable applications
-
----
-
-## What I'm Working On
-
-### 01. Reinforcement Learning & MLOps
-
-Developing an autonomous trading system for global energy markets using **Proximal Policy Optimization (PPO)**.
-
-The project explores how reinforcement learning agents can be continuously evaluated, monitored and retrained through an integrated MLOps architecture.
-
-**Core technologies:**
-- Python, PyTorch and Stable-Baselines3
-- PostgreSQL and FastAPI
-- MLflow and Evidently AI
-- Prefect and Docker
-- React and data visualisation
-
-**Research areas:** Policy optimisation, model performance monitoring, alpha decay detection and continuous training.
-
-### 02. Full-Stack Software Engineering
-
-Designing and developing web applications, management systems and backend services.
-
-Areas of interest include:
-- REST API development and integration
-- Database architecture and optimisation
-- Authentication and access control
-- Enterprise resource planning systems
-- Automation and workflow management
-
-### 03. Geospatial Systems & Visualisation
-
-Exploring interactive geospatial applications and large-scale data visualisation.
-
-Working with technologies such as:
-- React
-- Deck.gl
-- react-globe.gl
-- GeoJSON
+- Reinforcement Learning and autonomous decision-making.
+- MLOps, continuous training and model lifecycle management.
+- Model evaluation, monitoring and performance degradation detection.
+- AI infrastructure, backend engineering and data pipelines.
+- Intelligent automation and scalable software architectures.
 
 ---
 
-## Technical Stack
+## 02 / Featured Engineering Projects
 
-### Languages
+### 01. Global Energy Markets — Reinforcement Learning & MLOps Platform
+
+<sub>UNDERGRADUATE RESEARCH PROJECT · IN DEVELOPMENT</sub>
+
+Developing an autonomous trading system that applies Deep Reinforcement Learning to decision-making in global energy equity markets.
+
+The project explores how an intelligent trading agent can be integrated into a continuously monitored machine learning lifecycle, addressing the challenge of maintaining model performance as market conditions evolve.
+
+**Engineering contributions:**
+
+- Developing a PPO-based reinforcement learning agent using Stable-Baselines3.
+- Designing a financial market simulation environment using Gymnasium/FinRL.
+- Building a PostgreSQL-based market data and feature storage architecture.
+- Implementing model experiment tracking and version management.
+- Integrating automated drift evaluation and retraining orchestration.
+- Developing FastAPI-based model serving infrastructure.
+- Building a React dashboard for monitoring model performance and trading decisions.
+
+**Technology stack**
+
+`Python` `PyTorch` `PPO` `Stable-Baselines3` `PostgreSQL` `FastAPI` `MLflow` `Evidently AI` `Prefect` `Docker` `React`
+
+**Core research question:** How can reinforcement learning agents be continuously evaluated and retrained to remain effective as financial market conditions change?
+
+---
+
+### 02. Enterprise Systems & Workflow Automation
+
+<sub>SOFTWARE ENGINEERING · ENTERPRISE APPLICATIONS</sub>
+
+Working on enterprise-oriented software systems that integrate business processes, operational data and automated workflows.
+
+Areas of engineering include:
+
+- Backend architecture and REST API development.
+- Relational database design and data modelling.
+- Asset and resource management workflows.
+- Employee scheduling and automated task allocation.
+- Integration of frontend applications with backend services.
+- Business process automation and operational dashboards.
+
+**Technology stack**
+
+`PHP` `Laravel` `JavaScript` `React` `MySQL` `REST APIs`
+
+---
+
+### 03. Geospatial Data Visualisation & Network Infrastructure
+
+<sub>GEOSPATIAL ENGINEERING · INTERACTIVE DATA VISUALISATION</sub>
+
+Developing interactive geospatial visualisation solutions for presenting network infrastructure and geographical coverage information.
+
+The work explores how complex geographical datasets can be transformed into interactive visual representations.
+
+**Engineering contributions:**
+
+- Interactive 3D geographical visualisation.
+- GeoJSON data integration and processing.
+- Geographic coverage mapping.
+- Interactive data rendering and exploration.
+
+**Technology stack**
+
+`JavaScript` `React` `Deck.gl` `react-globe.gl` `GeoJSON`
+
+---
+
+## 03 / Technical Expertise
+
+### AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1a3a5c?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-1a3a5c?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1a3a5c?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1a3a5c?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-142c46?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-142c46?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-142c46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-142c46?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Frameworks & Development
+### MLOps & AI Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/React-2c4a6e?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-2c4a6e?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-2c4a6e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-2c4a6e?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-2c4a6e?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-205b85?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-205b85?style=for-the-badge&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evidently_AI-205b85?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-205b85?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Databases & Infrastructure
+### Backend & Application Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-3d5a80?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-3d5a80?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-3d5a80?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-3d5a80?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-142c46?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-142c46?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-142c46?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-142c46?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-142c46?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-142c46?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### Artificial Intelligence & Machine Learning
+### Data & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-3d5a80?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-3d5a80?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-3d5a80?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-205b85?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-205b85?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-205b85?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-205b85?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Analytics
+## 04 / GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
@@ -128,30 +161,39 @@ Working with technologies such as:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0b1624&color=b9d8f2&line=3986c8&point=ffffff&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-## Let's Connect
+## 05 / Research & Technical Interests
 
-I'm interested in connecting with developers, researchers and engineers working on software engineering, artificial intelligence, machine learning infrastructure and emerging technologies.
+Beyond my current projects, I'm interested in exploring:
 
-Whether it's collaborating on a project, discussing an engineering problem or exploring an interesting technical idea, feel free to reach out.
+- **Reinforcement Learning:** Policy optimisation, reward engineering and autonomous agents.
+- **MLOps:** Reproducibility, experiment tracking, model registries and automated deployment.
+- **Continuous Training:** Model drift, performance degradation and automated retraining strategies.
+- **AI Systems Engineering:** Building reliable infrastructure around machine learning models.
+- **Intelligent Automation:** Applying AI to complex operational and decision-making problems.
+
+---
+
+## 06 / Let's Connect
+
+I'm interested in connecting with AI engineers, MLOps practitioners, software developers and researchers working on intelligent systems.
+
+Open to technical discussions, research collaborations and engineering opportunities involving AI infrastructure, machine learning deployment and backend systems.
 
 <p align="center">
-  <a href="mailto:caleb.Kipchirchir@strathmore.edu">
-    <img src="https://img.shields.io/badge/Email-caleb.Kipchirchir%40strathmore.edu-1a3a5c?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Kipchirchir-1a3a5c?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:caleb.Kipchirchir@strathmore.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">LinkedIn</a> ·
+  <a href="https://github.com/c-sawe">GitHub</a>
 </p>
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>Researching intelligence. Engineering infrastructure. Building systems that evolve.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0d1b2a&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:205b85,50:142c46,100:0b1624&height=110&section=footer" width="100%" />
 </p>
