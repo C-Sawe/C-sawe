@@ -78,11 +78,6 @@ Final-year Computer Science & Informatics researcher and software engineer speci
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-sawe&theme=nord_dark" height="165" alt="Top Languages" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity&cache_seconds=86400" width="100%" alt="Activity Graph" />
-</div>
 
 <br />
 
