@@ -74,8 +74,14 @@ Final-year Computer Science & Informatics researcher and software engineer speci
 ## GitHub Telemetry — 2026
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&bg_color=0d1b2a&title_color=a8c8e8&text_color=ffffff&icon_color=2c5f8a&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&bg_color=0d1b2a&title_color=a8c8e8&text_color=ffffff&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c-sawe&theme=nord_dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-sawe&theme=nord_dark" height="165" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity&cache_seconds=86400" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
