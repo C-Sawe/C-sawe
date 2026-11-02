@@ -1,98 +1,157 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:2c5f8a&height=150&section=header&text=Caleb%20Kipchirchir&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Deep%20RL%20Researcher%20%7C%20MLOps%20Architect&descSize=16&descAlignY=60&descColor=a8c8e8&animation=fadeIn" width="100%" alt="Header Banner" />
+ <!-- README.md -->
 
-  <p><b>BSc. Informatics & Computer Science — Strathmore University</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1a3a5c&height=180&section=header&text=Caleb%20Kipchirchir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20MLOps&descAlignY=65&descSize=16&descColor=a8c8e8&animation=fadeIn" width="100%" />
+</p>
 
+<p align="center">
+  <b>Building intelligent systems. Engineering practical solutions.</b>
+</p>
+
+<p align="center">
   <a href="mailto:caleb.Kipchirchir@strathmore.edu">
-    <img src="https://img.shields.io/badge/Email-caleb.Kipchirchir%40strathmore.edu-1a3a5c?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1a3a5c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/c-sawe">
-    <img src="https://img.shields.io/badge/GitHub-c--sawe-1a3a5c?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-C--Sawe-1a3a5c?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Kipchirchir-1a3a5c?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1a3a5c?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## About
+## About Me
 
-Final-year Computer Science & Informatics researcher and software engineer specializing in **applied reinforcement learning, MLOps/RLOps infrastructure, and full-stack distributed systems**. I bridge the gap between experimental machine learning models and resilient, high-throughput production architectures—from automated continuous training pipelines for financial markets to full-scale enterprise ERP and FinTech platforms.
+I'm a Computer Science and Informatics student at **Strathmore University**, with a strong interest in software engineering, applied artificial intelligence, and machine learning infrastructure.
+
+My work revolves around designing and developing practical software systems, from full-stack web applications and backend architectures to intelligent agents and automated machine learning pipelines.
+
+I'm particularly interested in bridging the gap between experimental AI research and deployable engineering systems.
+
+Currently, I'm exploring how reinforcement learning, MLOps, and continuous training architectures can be combined to build adaptive, reliable, and production-oriented intelligent systems.
+
+- 🎓 **Education:** BSc Informatics & Computer Science — Strathmore University
+- 💻 **Focus:** Software Engineering, Applied AI & MLOps
+- 🧠 **Research:** Deep Reinforcement Learning and autonomous trading systems
+- ⚙️ **Interests:** Backend infrastructure, automation, intelligent systems and scalable applications
 
 ---
 
-## Current Focus & Featured Engineering
+## What I'm Working On
 
-- **Autonomous Deep RL Trading & RLOps (Thesis)** — Architecting a Proximal Policy Optimization (PPO) portfolio management system for global energy equities. Engineered a **Prefect-driven Continuous Training (CT) orchestrator** to detect alpha decay, automate regime-aware retraining, and serve real-time telemetry via **FastAPI**, **PostgreSQL**, and a **React** dashboard.
-- **Enterprise ERP & FinTech Integrations** — Designing and maintaining production agricultural e-commerce and inventory management systems powered by **Laravel, React, Inertia.js, and MySQL**, featuring automated **M-Pesa STK Push** payment pipelines and custom **C# COM POS hooks** for real-time tax compliance (eTIMS VSCU).
-- **Systems & Distributed Computing** — Building low-level and high-availability tools, including containerized HTTP load balancers with consistent hashing and quadratic probing, interactive 3D/geospatial visualizers (`react-globe.gl`), and embedded IoT telemetry systems.
+### 01. Reinforcement Learning & MLOps
+
+Developing an autonomous trading system for global energy markets using **Proximal Policy Optimization (PPO)**.
+
+The project explores how reinforcement learning agents can be continuously evaluated, monitored and retrained through an integrated MLOps architecture.
+
+**Core technologies:**
+- Python, PyTorch and Stable-Baselines3
+- PostgreSQL and FastAPI
+- MLflow and Evidently AI
+- Prefect and Docker
+- React and data visualisation
+
+**Research areas:** Policy optimisation, model performance monitoring, alpha decay detection and continuous training.
+
+### 02. Full-Stack Software Engineering
+
+Designing and developing web applications, management systems and backend services.
+
+Areas of interest include:
+- REST API development and integration
+- Database architecture and optimisation
+- Authentication and access control
+- Enterprise resource planning systems
+- Automation and workflow management
+
+### 03. Geospatial Systems & Visualisation
+
+Exploring interactive geospatial applications and large-scale data visualisation.
+
+Working with technologies such as:
+- React
+- Deck.gl
+- react-globe.gl
+- GeoJSON
 
 ---
 
 ## Technical Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-1a3a5c?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a3a5c?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a3a5c?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1a3a5c?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1a3a5c?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a3a5c?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1a3a5c?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1a3a5c?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1a3a5c?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1a3a5c?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-**Backend, Frontend & Full-Stack Frameworks**
+### Frameworks & Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-2c4a6e?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-2c4a6e?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-2c4a6e?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue%203-2c4a6e?style=flat-square&logo=vuedotjs&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-2c4a6e?style=flat-square&logo=inertia&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2c4a6e?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-2c4a6e?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2c4a6e?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-2c4a6e?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-2c4a6e?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2c4a6e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-2c4a6e?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-2c4a6e?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-**AI, Deep RL & MLOps**
+### Databases & Infrastructure
 
-![PyTorch](https://img.shields.io/badge/PyTorch-345678?style=flat-square&logo=pytorch&logoColor=white)
-![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-345678?style=flat-square&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect_Orchestrator-345678?style=flat-square&logo=prefect&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-345678?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-345678?style=flat-square&logo=pandas&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-3d5a80?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-3d5a80?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-3d5a80?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-3d5a80?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-**Data, DevOps & Infrastructure**
+### Artificial Intelligence & Machine Learning
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d5a80?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3d5a80?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3d5a80?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-3d5a80?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3d5a80?style=flat-square&logo=git&logoColor=white)
-
----
-
-## GitHub Telemetry — 2026
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&locale=en&bg_color=0d1b2a&title_color=a8c8e8&text_color=ffffff&icon_color=2c5f8a&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-sawe&show_icons=true&locale=en&layout=compact&bg_color=0d1b2a&title_color=a8c8e8&text_color=ffffff&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&custom_title=2026%20Contribution%20Activity" width="100%" alt="Activity Graph" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-3d5a80?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-3d5a80?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-3d5a80?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
-## Reach Out
-
-Open to research collaborations in quantitative RL and MLOps, technical discussions on resilient backend systems, and software/AI engineering roles.
-
-- **Email:** [caleb.Kipchirchir@strathmore.edu](mailto:caleb.Kipchirchir@strathmore.edu)
-- **LinkedIn:** [Caleb Kipchirchir](https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/)
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0d1b2a&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sawe&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sawe&theme=react-dark&bg_color=0d1b2a&color=a8c8e8&line=2c5f8a&point=ffffff&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with developers, researchers and engineers working on software engineering, artificial intelligence, machine learning infrastructure and emerging technologies.
+
+Whether it's collaborating on a project, discussing an engineering problem or exploring an interesting technical idea, feel free to reach out.
+
+<p align="center">
+  <a href="mailto:caleb.Kipchirchir@strathmore.edu">
+    <img src="https://img.shields.io/badge/Email-caleb.Kipchirchir%40strathmore.edu-1a3a5c?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/caleb-kipchirchir-8582b8397/">
+    <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Kipchirchir-1a3a5c?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0d1b2a&height=100&section=footer" width="100%" />
 </p>
