@@ -103,7 +103,7 @@ I work on the gap between experimental models and resilient, high-throughput pro
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c-sawe&theme=nord_dark" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c-sawe&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&border_radius=6&rank_icon=github" height="170" alt="GitHub statistics and rank" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-sawe&theme=nord_dark" height="170" alt="Repositories per language" />
 </p>
@@ -112,6 +112,10 @@ I work on the gap between experimental models and resilient, high-throughput pro
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-sawe&theme=nord_dark" height="170" alt="Most committed languages" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-sawe&theme=nord_dark&utcOffset=3" height="170" alt="Commit activity by time of day (EAT)" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c-sawe&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies and ranks" />
 </p>
 
 <br />
